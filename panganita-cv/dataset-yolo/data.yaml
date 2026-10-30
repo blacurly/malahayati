@@ -1,0 +1,21 @@
+path: 'c:/Users/LENOVO/Music/panganita-cv/dataset-yolo'
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: wortel
+  1: udang
+  2: singkong
+  3: pisang
+  4: ubi_jalar
+  5: jagung
+  6: tomat
+  7: ikan_lele
+  8: ikan_kembung
+  9: ikan_tongkol
+  10: ikan_gurame
+  11: bayam
+  12: kangkung
+  13: buah_naga
+  14: telur_ayam_ras
